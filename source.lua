@@ -156,7 +156,7 @@ do -- Load items
     Folder_2.BackgroundTransparency = 1.000
     Folder_2.Size = UDim2.new(1, 0, 0, 20)
     Folder_2.Image = "rbxassetid://3570695787"
-    Folder_2.ImageColor3 = Color3.fromRGB(75, 10, 120)
+    Folder_2.ImageColor3 = Color3.fromRGB(155, 3, 3)
     Folder_2.ScaleType = Enum.ScaleType.Slice
     Folder_2.SliceCenter = Rect.new(100, 100, 100, 100)
     Folder_2.SliceScale = 0.050
@@ -397,7 +397,7 @@ do -- Load items
     ImageLabel.Size = UDim2.new(1, 0, 1, 0)
     ImageLabel.ZIndex = 2
     ImageLabel.Image = "rbxassetid://3570695787"
-    ImageLabel.ImageColor3 = Color3.fromRGB(75, 10, 120)
+    ImageLabel.ImageColor3 = Color3.fromRGB(155, 3, 3)
     ImageLabel.ScaleType = Enum.ScaleType.Slice
     ImageLabel.SliceCenter = Rect.new(100, 100, 100, 100)
     ImageLabel.SliceScale = 0.050
@@ -412,7 +412,7 @@ do -- Load items
     Layer_2.Selectable = true
     Layer_2.Size = UDim2.new(1, 0, 1, 0)
     Layer_2.Image = "rbxassetid://3570695787"
-    Layer_2.ImageColor3 = Color3.fromRGB(37, 5, 60)
+    Layer_2.ImageColor3 = Color3.fromRGB(77, 1, 1)
     Layer_2.ScaleType = Enum.ScaleType.Slice
     Layer_2.SliceCenter = Rect.new(100, 100, 100, 100)
     Layer_2.SliceScale = 0.050
@@ -462,14 +462,14 @@ do -- Load items
     Inner.Position = UDim2.new(0, 2, 0, 2)
     Inner.Size = UDim2.new(1, -4, 1, -4)
     Inner.Image = "rbxassetid://3570695787"
-    Inner.ImageColor3 = Color3.fromRGB(75, 10, 120)
+    Inner.ImageColor3 = Color3.fromRGB(155, 3, 3)
     Inner.ScaleType = Enum.ScaleType.Slice
     Inner.SliceCenter = Rect.new(100, 100, 100, 100)
     Inner.SliceScale = 0.050
 
     Slider_2.Name = "Slider"
     Slider_2.Parent = Inner
-    Slider_2.BackgroundColor3 = Color3.fromRGB(110, 15, 176)
+    Slider_2.BackgroundColor3 = Color3.fromRGB(186, 3, 3)
     Slider_2.BorderSizePixel = 0
     Slider_2.Position = UDim2.new(0, 10, 0, 0)
     Slider_2.Size = UDim2.new(0, 5, 1, 0)
@@ -517,7 +517,7 @@ do -- Load items
     ImageLabel_2.Size = UDim2.new(1, 0, 1, 0)
     ImageLabel_2.ZIndex = 2
     ImageLabel_2.Image = "rbxassetid://3570695787"
-    ImageLabel_2.ImageColor3 = Color3.fromRGB(75, 10, 120)
+    ImageLabel_2.ImageColor3 = Color3.fromRGB(155, 3, 3)
     ImageLabel_2.ScaleType = Enum.ScaleType.Slice
     ImageLabel_2.SliceCenter = Rect.new(100, 100, 100, 100)
     ImageLabel_2.SliceScale = 0.050
@@ -532,7 +532,7 @@ do -- Load items
     Layer_3.Selectable = true
     Layer_3.Size = UDim2.new(1, 0, 1, 0)
     Layer_3.Image = "rbxassetid://3570695787"
-    Layer_3.ImageColor3 = Color3.fromRGB(37, 5, 60)
+    Layer_3.ImageColor3 = Color3.fromRGB(77, 1, 1)
     Layer_3.ScaleType = Enum.ScaleType.Slice
     Layer_3.SliceCenter = Rect.new(100, 100, 100, 100)
     Layer_3.SliceScale = 0.050
@@ -547,7 +547,7 @@ do -- Load items
     Card.SliceCenter = Rect.new(100, 100, 100, 100)
     Card.SliceScale = 0.120
 
-    UIGradient.Color = ColorSequence.new{ColorSequenceKeypoint.new(0.00, Color3.fromRGB(0, 129, 167)), ColorSequenceKeypoint.new(1.00, Color3.fromRGB(0, 160, 168))}
+    UIGradient.Color = ColorSequence.new{ColorSequenceKeypoint.new(0.00, Color3.fromRGB(155, 3, 3)), ColorSequenceKeypoint.new(1.00, Color3.fromRGB(186, 3, 3))}
     UIGradient.Rotation = 30
     UIGradient.Parent = Card
 
@@ -642,7 +642,7 @@ do -- Load items
     ImageLabel_4.Size = UDim2.new(1, 0, 1, 0)
     ImageLabel_4.ZIndex = 2
     ImageLabel_4.Image = "rbxassetid://3570695787"
-    ImageLabel_4.ImageColor3 = Color3.fromRGB(75, 10, 120)
+    ImageLabel_4.ImageColor3 = Color3.fromRGB(155, 3, 3)
     ImageLabel_4.ScaleType = Enum.ScaleType.Slice
     ImageLabel_4.SliceCenter = Rect.new(100, 100, 100, 100)
     ImageLabel_4.SliceScale = 0.050
@@ -665,7 +665,7 @@ do -- Load items
     Layer_4.Selectable = true
     Layer_4.Size = UDim2.new(1, 0, 1, 0)
     Layer_4.Image = "rbxassetid://3570695787"
-    Layer_4.ImageColor3 = Color3.fromRGB(37, 5, 60)
+    Layer_4.ImageColor3 = Color3.fromRGB(77, 1, 1)
     Layer_4.ScaleType = Enum.ScaleType.Slice
     Layer_4.SliceCenter = Rect.new(100, 100, 100, 100)
     Layer_4.SliceScale = 0.050
@@ -830,7 +830,7 @@ do -- Load items
     Inner_2.Position = UDim2.new(0, 2, 0, 2)
     Inner_2.Size = UDim2.new(1, -4, 1, -4)
     Inner_2.Image = "rbxassetid://3570695787"
-    Inner_2.ImageColor3 = Color3.fromRGB(75, 10, 120)
+    Inner_2.ImageColor3 = Color3.fromRGB(155, 3, 3)
     Inner_2.ScaleType = Enum.ScaleType.Slice
     Inner_2.SliceCenter = Rect.new(100, 100, 100, 100)
     Inner_2.SliceScale = 0.050
@@ -1070,7 +1070,7 @@ do -- Load items
     Inner_3.Position = UDim2.new(0, 2, 0, 2)
     Inner_3.Size = UDim2.new(1, -4, 1, -4)
     Inner_3.Image = "rbxassetid://3570695787"
-    Inner_3.ImageColor3 = Color3.fromRGB(75, 10, 120)
+    Inner_3.ImageColor3 = Color3.fromRGB(155, 3, 3)
     Inner_3.ScaleType = Enum.ScaleType.Slice
     Inner_3.SliceCenter = Rect.new(100, 100, 100, 100)
     Inner_3.SliceScale = 0.050
